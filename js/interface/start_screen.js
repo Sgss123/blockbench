@@ -436,7 +436,7 @@ onVueSetup(function() {
 							</template>
 						</div>
 
-						<div class="start_screen_right" v-else>
+						<!--<div class="start_screen_right" v-else>
 							<h2>${tl('mode.start.recent')}</h2>
 							<div id="start_screen_view_menu" v-if="isApp && !redact_names">
 								<search-bar :hide="true" v-model="search_term"></search-bar>
@@ -482,7 +482,7 @@ onVueSetup(function() {
 							<div class="button_bar">
 								<button style="margin-top: 20px;" onclick="BarItems.open_model.trigger()">${tl('action.open_model')}</button>
 							</div>
-						</div>
+						</div>-->
 
 					</section>
 				</content>

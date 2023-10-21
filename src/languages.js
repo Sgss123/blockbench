@@ -65,7 +65,7 @@ window.translateUI = function() {
 
 window.Language = {
 	data: {},
-	code: 'en',
+	code: 'zh',
 	options: {
 		en: 'English',
 		cz: 'Čeština (Czech)',
